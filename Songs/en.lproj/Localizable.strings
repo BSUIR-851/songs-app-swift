@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings
+  Songs
+
+  Created by Yura Morozov on 15.05.21.
+  
+*/
+
+"author" = "Author";
+"delete" = "Delete";
+"description" = "Description";
+"year" = "Year";
+"email" = "Email";
+"role" = "Role";
+"admin_role" = "Admin";
+"user_role" = "User";
+"admin_panel" = "Admin panel";
+"id" = "ID";
+"users" = "Users";
+"blocked" = "Blocked";
+"active" = "Active";
+"msg" = "Message";
+"success" = "Success";
+"blocked_msg" = "You have been blocked! Ask your admin to unblock!";
+"success_change" = "User's params have been sucessfully changed";
+"release" = "Release place";
+"general" = "General";
+"photo" = "Photo";
+"language" = "Language";
+"font" = "Font";
+"font_size" = "Text size";
+"latitude" = "Latitude";
+"longitude" = "Longitude";
+"log_out" = "Log Out";
+"name" = "Name";
+"pick_location" = "Pick location";
+"remove" = "Remove";
+"select" = "Select";
+"sign_in" = "Sign In";
+"sign_up" = "Sign Up";
+"there_is_no_songs" = "There are not any songs";
+"there_is_no_users" = "There are not any users";
+"video" = "Video";
+"welcome_exclamation_mark" = "Welcome!";
+"error" = "Error";
+"something_went_wrong" = "Something went wrong";
+"email_and_password_must_be_not_empty" = "Email and password must be not empty";
+"settings" = "Settings";
+"sys_lang" = "System";
+"en_lang" = "English";
+"ru_lang" = "Русский";
+"map" = "Map";
+"songs" = "Songs";
+"back" = "Back";
+"save" = "Save";
+"new_song" = "New song";
+"edit_song" = "Edit song";
+"password" = "Password";

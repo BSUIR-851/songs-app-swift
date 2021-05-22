@@ -1,0 +1,58 @@
+/* 
+  Localizable.strings
+  Songs
+
+  Created by Yura Morozov on 15.05.21.
+  
+*/
+
+"author" = "Автор";
+"delete" = "Удалить";
+"description" = "Описание";
+"year" = "Год";
+"email" = "Почта";
+"role" = "Роль";
+"admin_role" = "Администратор";
+"user_role" = "Пользователь";
+"admin_panel" = "Панель администратора";
+"id" = "ID";
+"users" = "Пользователи";
+"blocked" = "Заблокирован";
+"active" = "Активен";
+"msg" = "Сообщение";
+"success" = "Удачно";
+"blocked_msg" = "Вы были заблокированы! Обратитесь к вашему администратору для разблокировки";
+"success_change" = "Параметры пользователя были успешно обновлены";
+"release" = "Место релиза";
+"general" = "Общее";
+"photo" = "Фото";
+"language" = "Язык";
+"font" = "Шрифт";
+"font_size" = "Размер текста";
+"latitude" = "Широта";
+"longitude" = "Долгота";
+"log_out" = "Выйти";
+"name" = "Имя";
+"pick_location" = "Выбрать локацию";
+"remove" = "Удалить";
+"select" = "Выбрать";
+"sign_in" = "Войти";
+"sign_up" = "Регистрация";
+"there_is_no_songs" = "Песни отсутствуют";
+"there_is_no_users" = "Пользователи отсутствуют";
+"video" = "Видео";
+"welcome_exclamation_mark" = "Привет!";
+"error" = "Ошибка";
+"something_went_wrong" = "Что-то пошло не так";
+"email_and_password_must_be_not_empty" = "Почта и пароль не должны быть пустыми";
+"settings" = "Настройки";
+"sys_lang" = "Система";
+"en_lang" = "English";
+"ru_lang" = "Русский";
+"map" = "Карта";
+"songs" = "Песни";
+"back" = "Назад";
+"save" = "Сохранить";
+"new_song" = "Новая";
+"edit_song" = "Изменить";
+"password" = "Пароль";
